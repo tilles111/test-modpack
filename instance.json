@@ -599,6 +599,17 @@
         }
       },
       {
+        "name": "pakku.jar",
+        "version": "Unknown",
+        "optional": true,
+        "file": "pakku.jar",
+        "type": "mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
         "name": "AppleSkin",
         "version": "appleskin-forge-mc1.20.1-2.5.1.jar",
         "optional": true,
@@ -818,15 +829,695 @@
         }
       },
       {
-        "name": "pakku.jar",
-        "version": "Unknown",
+        "name": "Curios API (Forge/NeoForge)",
+        "version": "curios-forge-5.14.1+1.20.1.jar",
         "optional": true,
-        "file": "pakku.jar",
+        "file": "curios-forge-5.14.1+1.20.1.jar",
         "type": "mods",
+        "description": "A flexible and expandable accessory/equipment API for users and developers.",
         "disabled": false,
         "userAdded": true,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 309927,
+        "curseForgeFileId": 6418456,
+        "curseForgeProject": {
+          "id": 309927,
+          "name": "Curios API (Forge/NeoForge)",
+          "authors": [
+            {
+              "id": 34683772,
+              "name": "TheIllusiveC4",
+              "url": "https://www.curseforge.com/members/theillusivec4"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A flexible and expandable accessory/equipment API for users and developers.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "curios",
+          "isFeatured": false,
+          "dateModified": "2025-05-17T08:06:34.187Z",
+          "dateCreated": "2019-02-25T22:00:52.517Z",
+          "dateReleased": "2025-05-17T07:56:12.073Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/curios",
+            "wikiUrl": "https://docs.illusivesoulworks.com/category/curios",
+            "issuesUrl": "https://github.com/TheIllusiveC4/Curios/issues",
+            "sourceUrl": "https://github.com/TheIllusiveC4/Curios"
+          },
+          "logo": {
+            "id": 195772,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
+            "title": "636881112930494939.png",
+            "url": "https://media.forgecdn.net/avatars/195/772/636881112930494939.png",
+            "modId": 309927
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 6538281
+        },
+        "curseForgeFile": {
+          "id": 6418456,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "curios-forge-5.14.1+1.20.1.jar",
+          "fileName": "curios-forge-5.14.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-04-13T13:09:30.85Z",
+          "fileLength": 398066,
+          "dependencies": [],
+          "alternateFileId": 6418457,
+          "modules": [
+            {
+              "fingerprint": 3003073952,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1731632393,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 1065045,
+              "name": "README.md"
+            },
+            {
+              "fingerprint": 2179753246,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 382235595,
+              "name": "curios.mixins.json"
+            },
+            {
+              "fingerprint": 4229345596,
+              "name": "curios.refmap.json"
+            },
+            {
+              "fingerprint": 1224242090,
+              "name": "curios_icon.png"
+            },
+            {
+              "fingerprint": 2640981864,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3550732819,
+              "name": "licenses"
+            },
+            {
+              "fingerprint": 3015994141,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4018568403,
+              "name": "top"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+              "algo": 1
+            },
+            {
+              "value": "2fdcc97cbc66c4b2492b407c792e7159",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 1288931317,
+          "modId": 309927
+        },
+        "modrinthProject": {
+          "id": "vvuO3ImH",
+          "slug": "curios",
+          "project_type": "mod",
+          "team": "JCm9vxVF",
+          "title": "Curios API",
+          "description": "A flexible and expandable accessory/equipment API for users and developers.",
+          "body": "# Overview\n\nCurios is a flexible and expandable accessory/equipment API for users and developers. The purpose is to provide functionality for developers to add extra accessory/equipment slots in a convenient and compatible manner, as well as to give users the ability to configure these slots to their preferences. By default, Curios does not add any content except for an inventory GUI. There are no slots and only two items, the latter only being available through the Creative menu and primarily serving as examples for developers to use when coding their own integration.\n\n## Features\n* **Expandable equipment slots through a central library.** New equipment slots can be made and managed easily through an identifier registry. Identical identifiers will be merged together to avoid functional redundancies and provide maximum compatibility to potential items, while unique identifiers can still be used to mark special types when appropriate.\n* **Slots are only made on-demand.** There are no slots included by default, all slots are created only as needed. This reduces instances where one or more superfluous slots are present without any suitable items to go into the slot.\n* **Slots are completely customizable and manipulable.** Slots can have custom backgrounds, different sizes, and can even be disabled or hidden by default. But how would a player even access disabled slots? Through the API, developers can access functions to enable/disable a player's slots or add/remove a certain number of slots of a given type.\n* **Flexible item->curio relations using the vanilla tag system.** Potential curios are selected through the vanilla tag system, which means that categorizing items into curio types is as easy as creating a .json file in the data/curios/tags folder. Items can be categorized into as many curio types as you want as long as they're tagged in the appropriate files, and these settings can even be overridden entirely. For more information, see the vanilla tag system.\n* **Complete integration with other inventory mechanics.** Mending and Curses will work with all applicable items equipped in the curio slots. There are also various minor features for developers that make it simpler to integrate their current items or mechanics into the curio system.\n* **Accessible from a single GUI.** Curios comes with its own GUI accessible from the inventory that shows all of the available slots to a player. This allows players to see all of the extended equipment slots in a central location without needing to access different inventory GUIs. However, developers can still provide their own GUIs for their mod-specific slots if they want. The default keybinding for the GUI is 'g'.\n\n![](https://i.ibb.co/NNByxcQ/curiogui.png)\n\n## Documentation\n* [Setting Up the Development Environment](https://docs.illusivesoulworks.com/curios/getting-started)\n* [Slots](https://docs.illusivesoulworks.com/category/slots)\n* [Example Datapack](https://docs.illusivesoulworks.com/curios/slots/datapack-example)\n* [Slots Configuration](https://docs.illusivesoulworks.com/curios/configuration)\n* [Commands](https://docs.illusivesoulworks.com/curios/commands)\n* [Legacy Documentation for 1.19.x and Below](https://github.com/TheIllusiveC4/Curios/wiki)",
+          "published": "2023-02-03T01:35:59.131618Z",
+          "updated": "2025-05-17T07:56:07.852681Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-or-later",
+            "name": "GNU Lesser General Public License v3.0 or later"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "library",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/vvuO3ImH/2a7323ca80849de0bcb50299e18acdf8bf394682.png",
+          "issues_url": "https://github.com/TheIllusiveC4/Curios/issues",
+          "source_url": "https://github.com/TheIllusiveC4/Curios",
+          "wiki_url": "https://docs.illusivesoulworks.com/category/curios",
+          "discord_url": "https://discord.gg/JWgrdwt",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/theillusivec4"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "IPQlZkz1",
+          "project_id": "vvuO3ImH",
+          "author_id": "zbpHS3ry",
+          "name": "curios-forge-5.14.1+1.20.1",
+          "version_number": "5.14.1+1.20.1",
+          "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\nPrior to version 5.2.0, this project used [Forge Recommended Versioning](https://mcforge.readthedocs.io/en/latest/conventions/versioning/).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/TheIllusiveC4/Curios/blob/1.20.x/docs/CHANGELOG.md).\n\n## [5.14.1+1.20.1] - 2025.04.13\n### Fixed\n- Fixed slot modifiers and invalid stacks when using `ICuriosItemHandler#saveInventory`\n",
+          "date_published": "2025-04-13T13:09:28.168539Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87",
+                "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+              },
+              "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+              "filename": "curios-forge-5.14.1+1.20.1.jar",
+              "primary": true,
+              "size": 398066
+            },
+            {
+              "hashes": {
+                "sha1": "2fc2e9613f1ed896f2928b01e8f88d60d1862c2b",
+                "sha512": "8e5d29d08b686ba619a912427c5bf43f331d51983e633074fe5e5dd1eaa317ca420bb0e2057eecd9ab12ee07925ffb62b04d9ea6c0d067d02b4399460205c013"
+              },
+              "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1-api.jar",
+              "filename": "curios-forge-5.14.1+1.20.1-api.jar",
+              "primary": false,
+              "size": 107842
+            },
+            {
+              "hashes": {
+                "sha1": "b30dbe254445060e7f510e31f32b2b3ef92961f9",
+                "sha512": "02b365411f4d429ae351660af2515fe4a05d2f59f0b3fc31b7930ceed5f34ceb3cef8aa6173a62b9f65b314e1080f694bb76f0c522f880bbc9a0af05ea52dc45"
+              },
+              "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1-sources.jar",
+              "filename": "curios-forge-5.14.1+1.20.1-sources.jar",
+              "primary": false,
+              "size": 181829
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Jade 🔍",
+        "version": "[Forge 1.20.1] 11.13.2",
+        "optional": true,
+        "file": "Jade-1.20.1-Forge-11.13.2.jar",
+        "type": "mods",
+        "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 324717,
+        "curseForgeFileId": 6855440,
+        "curseForgeProject": {
+          "id": 324717,
+          "name": "Jade 🔍",
+          "authors": [
+            {
+              "id": 21286654,
+              "name": "Snownee",
+              "url": "https://www.curseforge.com/members/snownee"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jade",
+          "isFeatured": false,
+          "dateModified": "2025-10-21T09:40:26.503Z",
+          "dateCreated": "2019-06-19T06:14:57.25Z",
+          "dateReleased": "2025-10-21T09:37:25.433Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jade",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Snownee/Jade/issues?q=is%3Aissue",
+            "sourceUrl": "https://github.com/Snownee/Jade"
+          },
+          "logo": {
+            "id": 207323,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
+            "title": "636965628804677340.png",
+            "url": "https://media.forgecdn.net/avatars/207/323/636965628804677340.png",
+            "modId": 324717
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 546809,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/546/809/310/172/6.gif",
+              "title": "Breaking Progress",
+              "url": "https://media.forgecdn.net/attachments/546/809/6.gif",
+              "modId": 324717
+            },
+            {
+              "id": 291527,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/527/310/172/tim20200511195706.png",
+              "title": "Command Block",
+              "url": "https://media.forgecdn.net/attachments/291/527/tim20200511195706.png",
+              "modId": 324717
+            },
+            {
+              "id": 291526,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/526/310/172/tim20200511195756.png",
+              "title": "Armor Stand",
+              "url": "https://media.forgecdn.net/attachments/291/526/tim20200511195756.png",
+              "modId": 324717
+            },
+            {
+              "id": 291525,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/525/310/172/tim20200511195806.png",
+              "title": "Hide Mod Name",
+              "url": "https://media.forgecdn.net/attachments/291/525/tim20200511195806.png",
+              "modId": 324717
+            },
+            {
+              "id": 291524,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/524/310/172/tim20200511195729.png",
+              "title": "Painting",
+              "url": "https://media.forgecdn.net/attachments/291/524/tim20200511195729.png",
+              "modId": 324717
+            },
+            {
+              "id": 291523,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/523/310/172/tim20200511195815.png",
+              "title": "Note Block",
+              "url": "https://media.forgecdn.net/attachments/291/523/tim20200511195815.png",
+              "modId": 324717
+            },
+            {
+              "id": 291522,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/522/310/172/tim20200511195823.png",
+              "title": "Beehive",
+              "url": "https://media.forgecdn.net/attachments/291/522/tim20200511195823.png",
+              "modId": 324717
+            },
+            {
+              "id": 291521,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/521/310/172/tim20200511195828.png",
+              "title": "TNT",
+              "url": "https://media.forgecdn.net/attachments/291/521/tim20200511195828.png",
+              "modId": 324717
+            },
+            {
+              "id": 254867,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/867/310/172/2019-06-19_18.png",
+              "title": "mob effects",
+              "url": "https://media.forgecdn.net/attachments/254/867/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 254866,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/866/310/172/2019-06-19_18.png",
+              "title": "horse stats",
+              "url": "https://media.forgecdn.net/attachments/254/866/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 254865,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/865/310/172/2019-06-19_18.png",
+              "title": "chest",
+              "url": "https://media.forgecdn.net/attachments/254/865/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 254864,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/864/310/172/2019-06-19_18.png",
+              "title": "item frame",
+              "url": "https://media.forgecdn.net/attachments/254/864/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 254863,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/863/310/172/2019-06-19_18.png",
+              "title": "brewing stand",
+              "url": "https://media.forgecdn.net/attachments/254/863/2019-06-19_18.png",
+              "modId": 324717
+            }
+          ],
+          "mainFileId": 7056475
+        },
+        "curseForgeFile": {
+          "id": 6855440,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge 1.20.1] 11.13.2",
+          "fileName": "Jade-1.20.1-Forge-11.13.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-08-06T14:19:52.7Z",
+          "fileLength": 552486,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2005966653,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 302840028,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1859719455,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2828855055,
+              "name": "jade.mixins.json"
+            },
+            {
+              "fingerprint": 522654571,
+              "name": "jade.refmap.json"
+            },
+            {
+              "fingerprint": 316591136,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 406420827,
+              "name": "snownee"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+              "algo": 1
+            },
+            {
+              "value": "7c349670f77fd64b9e9854c4a8d82fcc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 305733389,
+          "modId": 324717
+        },
+        "modrinthProject": {
+          "id": "nvQzSEkH",
+          "slug": "jade",
+          "project_type": "mod",
+          "team": "UadxHcYS",
+          "title": "Jade 🔍",
+          "description": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
+          "body": "# Jade 🔍\n\n<center><img src=\"https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif\"/></center>\n\nJade is the information HUD mod - Hwyla/Waila for modern Minecraft versions. Designed for better user experience and API.\n\nJade can be installed only on the client side. But many features require Jade on the server side. (item storage, brewing stand fuel amount, bees in beehive...)\n\n**For mod integration, try Jade Addons: [NeoForge](https://modrinth.com/mod/jade-addons-forge)  [Fabric](https://modrinth.com/mod/jade-addons-fabric)**\n\n### Keys (default):\n\n - Keypad 0: Open configuration screen\n - Keypad 1: Toggle overlay\n - Keypad 2: Toggle liquid display\n - Keypad 3: Show recipes (Requires JEI)\n - Keypad 4: Show uses (Requires JEI)\n - Keypad 5: Narrate target\n\n### Notable changes compared to Hwyla:\n\n - API re-design\n - More vanilla addons\n - Higher configurability\n - Better accessibility\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/oktbru)\n\nAs required by the original project Hwyla, Jade utilizes the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license.\n",
+          "published": "2021-09-18T08:14:16.544897Z",
+          "updated": "2025-10-21T09:37:39.401297Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-SA-4.0",
+            "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+          "issues_url": "https://github.com/Snownee/Jade/issues?q=is%3Aissue",
+          "source_url": "https://github.com/Snownee/Jade",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/snownee"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/snownee"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/0bf8da81675d890d2bccba0ed0f51a0fabef5267.png",
+              "raw_url": "https://cdn.modrinth.com/data/nvQzSEkH/images/0bf8da81675d890d2bccba0ed0f51a0fabef5267.png",
+              "featured": false,
+              "title": "Redstone support",
+              "created": "2022-12-11T09:22:23.125333Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/25295e11ad9a003df27cea972bffb1c1323d5e52.png",
+              "raw_url": "https://cdn.modrinth.com/data/nvQzSEkH/images/25295e11ad9a003df27cea972bffb1c1323d5e52.png",
+              "featured": false,
+              "title": "Horse stats",
+              "created": "2022-12-11T09:22:24.186008Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/4b47304960861088536652dfcc9dbf42ef59ce5e.png",
+              "raw_url": "https://cdn.modrinth.com/data/nvQzSEkH/images/4b47304960861088536652dfcc9dbf42ef59ce5e.png",
+              "featured": false,
+              "title": "Item storage",
+              "created": "2022-12-11T09:15:43.263966Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/6582f2217c9ce0d9fdc694e0f945dbe2ba10b5e2.png",
+              "raw_url": "https://cdn.modrinth.com/data/nvQzSEkH/images/6582f2217c9ce0d9fdc694e0f945dbe2ba10b5e2.png",
+              "featured": false,
+              "title": "Shows targeted face, position and distance",
+              "created": "2022-12-11T09:34:30.088195Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif",
+              "raw_url": "https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif",
+              "featured": false,
+              "title": "Harvestability and mining progress",
+              "created": "2022-12-11T09:46:54.705238Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/80e67bb1f4c38d64a1561a7080a663711507c4f8.png",
+              "raw_url": "https://cdn.modrinth.com/data/nvQzSEkH/images/80e67bb1f4c38d64a1561a7080a663711507c4f8.png",
+              "featured": false,
+              "title": "Shows item names in inventory",
+              "created": "2022-12-11T09:22:25.339079Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "LecuGude",
+          "project_id": "nvQzSEkH",
+          "author_id": "UxbEV316",
+          "name": "[Forge 1.20.1] 11.13.2",
+          "version_number": "11.13.2+forge",
+          "changelog": "## 11.13.2\n\n- fix: modded bossbar offset ([#645](https://github.com/Snownee/Jade/issues/645))\n- fix: MobSpawnerProvider CCE (close [#605](https://github.com/Snownee/Jade/issues/605))\n- improve: suppress getDestroyProgress errors (close [#637](https://github.com/Snownee/Jade/issues/637))\n- Update uk_ua.json ([#609](https://github.com/Snownee/Jade/issues/609))\n- fix: Jade cannot be built locally (close [#540](https://github.com/Snownee/Jade/issues/540))\n\n## 11.13.1\n\n- fix: workaround to blame jade addons\n\n## 11.13.0\n\n- feat: filter large bitmap glyphs (close: [#502](https://github.com/Snownee/Jade/issues/502))\n- improve: blame the correct mod 2.0\n\n## 11.12.3\n\n- fix: extension provider lookup (close [#523](https://github.com/Snownee/Jade/issues/523))\n\n## 11.12.2\n\n- fix: CME when registering keybinds (close [#497](https://github.com/Snownee/Jade/issues/497))\n\n## 11.12.1\n\n- fix: remove appending mod name code that seems pointless (close: [#480](https://github.com/Snownee/Jade/issues/480))\n- fix: incompatibility with Leawind's Third Person (close: [#387](https://github.com/Snownee/Jade/issues/387))\n",
+          "date_published": "2025-08-06T14:20:00.809085Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+                "sha512": "612c7535d28ae0cb336f31b790770b3dcb5173d496fb74eabcb28d06e3b88e72733128060cefc4ae4147cce528a8e8c09688a36d8f9e11dbf77e93d89b743560"
+              },
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar",
+              "filename": "Jade-1.20.1-Forge-11.13.2.jar",
+              "primary": true,
+              "size": 552486
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],

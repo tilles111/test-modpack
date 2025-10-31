@@ -9,6 +9,119 @@
     },
     "projects": [
         {
+            "pakku_id": "QPoE55J22jBgY8vc",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "appleskin"
+            },
+            "name": {
+                "curseforge": "AppleSkin"
+            },
+            "id": {
+                "curseforge": "248787"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4770/828/appleskin-forge-mc1.20.1-2.5.1.jar",
+                    "id": "4770828",
+                    "parent_id": "248787",
+                    "hashes": {
+                        "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+                        "md5": "dae63cea9c951dda542a4005ceef3953"
+                    },
+                    "required_dependencies": [],
+                    "size": 47428,
+                    "date_published": "2023-09-27T04:39:49.087Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FU2yDLrjEVBSupGH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "curios"
+            },
+            "name": {
+                "curseforge": "Curios API (Forge/NeoForge)"
+            },
+            "id": {
+                "curseforge": "309927"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "curios-forge-5.14.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1+1.20.1.jar",
+                    "id": "6418456",
+                    "parent_id": "309927",
+                    "hashes": {
+                        "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+                        "md5": "2fdcc97cbc66c4b2492b407c792e7159"
+                    },
+                    "required_dependencies": [],
+                    "size": 398066,
+                    "date_published": "2025-04-13T13:09:30.850Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "z8XbfURwNdUIbCZJ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "jade"
+            },
+            "name": {
+                "curseforge": "Jade 🔍"
+            },
+            "id": {
+                "curseforge": "324717"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Jade-1.20.1-Forge-11.13.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6855/440/Jade-1.20.1-Forge-11.13.2.jar",
+                    "id": "6855440",
+                    "parent_id": "324717",
+                    "hashes": {
+                        "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+                        "md5": "7c349670f77fd64b9e9854c4a8d82fcc"
+                    },
+                    "required_dependencies": [],
+                    "size": 552486,
+                    "date_published": "2025-08-06T14:19:52.700Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "kgJj67LuCz576fAZ",
             "type": "MOD",
             "slug": {

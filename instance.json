@@ -1518,6 +1518,501 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Sophisticated Core",
+        "version": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+        "optional": true,
+        "file": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+        "type": "mods",
+        "description": "Library mod for Sophisticated mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 618298,
+        "curseForgeFileId": 7169400,
+        "curseForgeProject": {
+          "id": 618298,
+          "name": "Sophisticated Core",
+          "authors": [
+            {
+              "id": 13011800,
+              "name": "P3pp3rF1y",
+              "url": "https://www.curseforge.com/members/p3pp3rf1y"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Library mod for Sophisticated mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "sophisticated-core",
+          "isFeatured": false,
+          "dateModified": "2025-10-31T13:17:01.723Z",
+          "dateCreated": "2022-04-27T08:17:57.207Z",
+          "dateReleased": "2025-10-31T13:15:11.86Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+            "sourceUrl": "https://github.com/P3pp3rF1y/SophisticatedCore"
+          },
+          "logo": {
+            "id": 540438,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/540/438/256/256/637866039314801108.png",
+            "title": "637866039314801108.png",
+            "url": "https://media.forgecdn.net/avatars/540/438/637866039314801108.png",
+            "modId": 618298
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7170258
+        },
+        "curseForgeFile": {
+          "id": 7169400,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+          "fileName": "sophisticatedcore-1.20.1-1.2.107.1240.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-10-31T05:57:33.977Z",
+          "fileLength": 1438965,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2042678482,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 810680708,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2483734106,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3439961723,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3640101168,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bd25a3a9d1b4a6e25b4087b58c0cd3a9564a78a7",
+              "algo": 1
+            },
+            {
+              "value": "fbc7db24a060b7cbe715013b071d604f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2765616546,
+          "modId": 618298
+        }
+      },
+      {
+        "name": "Sophisticated Backpacks",
+        "version": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+        "optional": true,
+        "file": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+        "type": "mods",
+        "description": "Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 422301,
+        "curseForgeFileId": 7169843,
+        "curseForgeProject": {
+          "id": 422301,
+          "name": "Sophisticated Backpacks",
+          "authors": [
+            {
+              "id": 13011800,
+              "name": "P3pp3rF1y",
+              "url": "https://www.curseforge.com/members/p3pp3rf1y"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 420,
+          "classId": 6,
+          "slug": "sophisticated-backpacks",
+          "isFeatured": false,
+          "dateModified": "2025-10-31T10:33:00.99Z",
+          "dateCreated": "2020-11-24T20:37:12.55Z",
+          "dateReleased": "2025-10-31T10:30:44.373Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues",
+            "sourceUrl": "https://github.com/P3pp3rF1y/SophisticatedBackpacks"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.com/invite/ZNxRYScDS7"
+            }
+          ],
+          "logo": {
+            "id": 375056,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/375/56/256/256/637549610342642859.png",
+            "title": "637549610342642859.png",
+            "url": "https://media.forgecdn.net/avatars/375/56/637549610342642859.png",
+            "modId": 422301
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1190429,
+              "description": "backpacks banner.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1190/429/310/172/backpacks-banner-png.png",
+              "title": "backpacks banner.png",
+              "url": "https://media.forgecdn.net/attachments/1190/429/backpacks-banner-png.png",
+              "modId": 422301
+            },
+            {
+              "id": 324387,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/387/310/172/compacting_upgrade.png",
+              "title": "Compacting upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/387/compacting_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324388,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/388/310/172/feeding_upgrade.png",
+              "title": "Feeding upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/388/feeding_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324389,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/389/310/172/filter_upgrade.png",
+              "title": "Filter upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/389/filter_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324390,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/390/310/172/magnet_upgrade.png",
+              "title": "magnet upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/390/magnet_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324391,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/391/310/172/pickup_upgrade.png",
+              "title": "Pickup upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/391/pickup_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324392,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/392/310/172/void_upgrade.png",
+              "title": "Void upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/392/void_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324950,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/950/310/172/deposit_upgrade.png",
+              "title": "Deposit Upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/950/deposit_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324951,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/951/310/172/restock_upgrade.png",
+              "title": "Restock Upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/951/restock_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 324952,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/324/952/310/172/refill_upgrade.png",
+              "title": "Refill Upgrade",
+              "url": "https://media.forgecdn.net/attachments/324/952/refill_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326463,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/463/310/172/advanced_pickup_upgrade.png",
+              "title": "Advanced Pickup upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/463/advanced_pickup_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326464,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/464/310/172/advanced_magnet_upgrade.png",
+              "title": "Advanced Magnet upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/464/advanced_magnet_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326465,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/465/310/172/advanced_filter_upgrade.png",
+              "title": "Advanced filter upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/465/advanced_filter_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326466,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/466/310/172/advanced_void_upgrade.png",
+              "title": "Advanced Void upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/466/advanced_void_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326467,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/467/310/172/advanced_compacting_upgrade.png",
+              "title": "Advanced Compacting upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/467/advanced_compacting_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326468,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/468/310/172/advanced_deposit_upgrade.png",
+              "title": "Advanced Deposit upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/468/advanced_deposit_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326469,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/469/310/172/advanced_restock_upgrade.png",
+              "title": "Advanced Restock upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/469/advanced_restock_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326470,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/470/310/172/inception_upgrade.png",
+              "title": "Inception upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/470/inception_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326471,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/471/310/172/everlasting_upgrade.png",
+              "title": "Everlasting upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/471/everlasting_upgrade.png",
+              "modId": 422301
+            },
+            {
+              "id": 326472,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/326/472/310/172/smelting_upgrade.png",
+              "title": "Smelting upgrade",
+              "url": "https://media.forgecdn.net/attachments/326/472/smelting_upgrade.png",
+              "modId": 422301
+            }
+          ],
+          "mainFileId": 7169873
+        },
+        "curseForgeFile": {
+          "id": 7169843,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+          "fileName": "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-10-31T10:20:22.04Z",
+          "fileLength": 973366,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 513769,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 233071,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 235577,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 456956,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 618298,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4156491442,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 67439225,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1342419614,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2552684475,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3257034752,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1102936719,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6fcdb6e2fc18e24cd0e65fe57961310dd2443bd9",
+              "algo": 1
+            },
+            {
+              "value": "a2d81606c31421d45aa3518e5471f154",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1758099020,
+          "modId": 422301
+        }
       }
     ],
     "ignoredUpdates": [],
